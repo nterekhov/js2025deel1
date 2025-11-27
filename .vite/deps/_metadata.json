@@ -1,0 +1,15 @@
+{
+  "hash": "38af0da1",
+  "configHash": "b4a7a222",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "135df4fa",
+  "optimized": {
+    "bootstrap": {
+      "src": "../../oef1/node_modules/bootstrap/dist/js/bootstrap.esm.js",
+      "file": "bootstrap.js",
+      "fileHash": "f71f6ad9",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
